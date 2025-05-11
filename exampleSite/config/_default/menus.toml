@@ -19,18 +19,18 @@
   weight = 30  
 
 [[main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 40
+  name = "Internship Experiences"
+  url = "#Internship_Experiences"
+  weight = 40  
 
 [[main]]
-  name = "Publications"
-  url = "#publications"
+  name = "Projects"
+  url = "#projects"
   weight = 50
 
 [[main]]
-  name = "Courses"
-  url = "courses/"
+  name = "Website Tutorial"
+  url = "Website_Tutorial/"
   weight = 60
 
 # Link to a PDF of your resume/CV from the menu.

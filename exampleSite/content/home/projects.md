@@ -22,6 +22,10 @@ subtitle = "ALL THINGS ARE DIFFICULT BEFORE THEY ARE EASY"
   filter_default = 0
   
   [[content.filter_button]]
+    name = "All"
+    tag = "All"
+
+  [[content.filter_button]]
     name = "Engineering"
     tag = "Engineering"
   
