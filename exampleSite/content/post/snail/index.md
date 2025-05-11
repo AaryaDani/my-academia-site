@@ -1,11 +1,9 @@
 ---
-title: 'A Study of Snail Behavior'
-subtitle: 'Create a beautifully simple website in under 10 minutes :rocket:'
-summary: Create a beautifully simple website in under 10 minutes.
+title: 'J&J Internship Experience'
 authors:
 - admin
 tags:
-- academia
+- internship
 categories: []
 date: "2016-04-20T00:00:00Z"
 lastmod: "2019-04-17T00:00:00Z"
@@ -16,7 +14,6 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
   focal_point: ""
   preview_only: false
 
