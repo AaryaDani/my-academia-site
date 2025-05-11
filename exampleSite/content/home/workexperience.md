@@ -4,8 +4,6 @@ widget = "experience"
 headless = true
 active = true
 weight = 40
-url = "/#experiences/"
-
 
 title = "Experience"
 subtitle = "Professional Experiences, Research, and Co-Ops"
