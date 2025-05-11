@@ -1,53 +1,51 @@
 +++
 # Experience widget.
-widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+widget = "experience"
+headless = true
+active = true
+weight = 40
 
 title = "Experience"
-subtitle = "PREVIOUS ASSOCIATIONS THAT HELPED TO GATHER EXPERIENCE"
+subtitle = "Professional Experiences, Research, and Co-Ops"
 
-# Date format for experience
-#   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
 date_format = "Jan 2006"
 
-# Experiences.
-#   Add/remove as many `[[experience]]` blocks below as you like.
-#   Required fields are `title`, `company`, and `date_start`.
-#   Leave `date_end` empty if it's your current employer.
-#   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  title = "Vaccine Manufacturing Co-Op"
+  company = "Merck Sharp & Dohme"
+  company_url = "https://www.merck.com"
+  location = "West Point, PA"
+  date_start = "2025-05-01"
+  date_end = "2025-08-31"
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  • Supported vaccine manufacturing by troubleshooting operational issues and ensuring GMP compliance.  
+  • Led deviation investigations to identify root causes and implement corrective actions.  
+  • Drove process improvements using Lean Six Sigma, enhancing yield and reducing cycle times.
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Data Engineering Intern – Quality & Compliance"
+  company = "Johnson & Johnson"
+  company_url = "https://www.jnj.com"
+  location = "Remote"
+  date_start = "2024-06-01"
+  date_end = "2024-08-31"
+  description = """
+  • Developed a data dictionary for over 40 unique drug products.  
+  • Automated conversion of 15,000+ source files via R script, improving build time by 50%.  
+  • Refactored and tested R code for commercial product support and enhanced performance.
+  """
 
 [[experience]]
-  title = "Professor"
-  company = "University Y"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = "2016-12-30"
-  description = """Taught electronic engineering and researched semiconductor physics."""
-  
+  title = "Cardiovascular Research Assistant"
+  company = "University of Pittsburgh"
+  company_url = "https://www.pitt.edu"
+  location = "Pittsburgh, PA"
+  date_start = "2024-02-01"
+  date_end = "2024-05-15"
+  description = """
+  • Conducted cell culture, immunolabeling, fluorescence imaging, and image processing.  
+  • Studied cell signaling under fluid shear using FlexCell apparatus.  
+  • Analyzed patient heart condition data, categorizing over 200 clinical cases.
+  """
 +++
