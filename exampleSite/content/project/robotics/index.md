@@ -1,14 +1,16 @@
 ---
-title: Robotics
-summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam, eius.
+title: Organic Rankine Cycle Project
 tags:
-- Robotics
-date: "2016-04-27T00:00:00Z"
+- Engineering
+date: "2025-05-01"
 
 # Optional external URL for project (replaces project detail page).
 external_link: 
 
 image:
-  caption: Photo by Toa Heftiba on Unsplash
+  caption: 
   focal_point: Smart
 ---
+
+<iframe src="/pdf/Design_Project.pdf" width="100%" height="600px">
+</iframe>
