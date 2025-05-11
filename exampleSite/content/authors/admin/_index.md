@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Michael Vahn
+name: Aarya Dani
 avatar_image: "user-full.png"
 # Username (this should match the folder name)
 authors:
@@ -14,35 +14,20 @@ btn:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations
-organizations:
-- name: Stanford University
-  url: ""
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+role: Student at University of Pittsburgh
 
 # Should the user's education and interests be displayed?
 display_education: false
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Chemical Engineeirng
+- Website Development
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: BE in Chemical Engineering
+    institution: University of Pittsburgh
+    year: 2027
 
 # Social/academia Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -51,7 +36,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: mailto:AND321@pitt.edu
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/GeorgeCushen
