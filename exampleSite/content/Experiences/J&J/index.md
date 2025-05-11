@@ -51,6 +51,7 @@ gallery_item:
 - album: gallery
   caption: Strawberry
   image: theme-strawberry.png
+url : "/#experiences/"
 ---
 
 During my internship at Johnson & Johnson in the summer of 2024, I supported the BRQC (Biological Regulatory & Quality Compliance) team by developing internal websites using Hugo to replace and streamline outdated SharePoint systems. I designed and implemented reusable templates that allowed multiple teams to generate consistent, professional sites with minimal setup, improving standardization across the organization. I also built automated pipelines to pull and integrate data from various sources, significantly reducing manual input and the reliance on static SharePoint pages. This not only enhanced data accessibility and clarity, but also improved team workflows by centralizing dynamic content in a modern, user-friendly format. The experience allowed me to apply my chemical engineering and programming background to solve real-world communication and data organization challenges.
