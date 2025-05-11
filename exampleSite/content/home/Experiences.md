@@ -5,12 +5,12 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
-title = "Experiences"
-subtitle = "A collection of some of the things I've done in my life"
+title = "Projects"
+subtitle = "ALL THINGS ARE DIFFICULT BEFORE THEY ARE EASY"
 
 [content]
   # Page type to display. E.g. project.
-  page_type = "Experiences"
+  page_type = "project"
   
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
