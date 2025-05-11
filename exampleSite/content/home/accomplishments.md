@@ -1,61 +1,57 @@
-+++
-# Accomplishments widget.
-widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 50  # Order that this section will appear.
++++ 
+# Extracurriculars widget.
+widget = "accomplishments"
+headless = true
+active = true
+weight = 50
 
-title = "Accomplish&shy;ments"
-subtitle = "PREVIOUS ASSOCIATIONS THAT HELPED TO GATHER EXPERIENCE"
+title = "Extracurriculars"
+subtitle = "Involvements and roles that shaped my leadership and outreach"
 
-# Date format
-#   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
 date_format = "Jan 2006"
 
-# Accomplishments.
-#   Add/remove as many `[[item]]` blocks below as you like.
-#   `title`, `organization` and `date_start` are the required parameters.
-#   Leave other parameters empty if not required.
-#   Begin/end multi-line descriptions with 3 quotes `"""`.
+[[item]]
+  title = "Opportunities Chair"
+  organization = "SACNAS (Society for Advancement of Chicanos/Hispanics & Native Americans in Science)"
+  organization_url = ""
+  date_start = "2023-08-01"
+  date_end = ""
+  description = """
+  Coordinated 15+ events offering research opportunities and professional development for undergraduate students.  
+  Helped build a stronger scientific community through outreach, mentorship, and ongoing collaboration between students and faculty.  
+  """
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
-  url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  title = "Representative"
+  organization = "American Institute of Chemical Engineers (AIChE)"
+  organization_url = ""
+  date_start = "2024-08-01"
   date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  description = """
+  Provided feedback for professional development events, helping tailor content to the needs of chemical engineering students.  
+  Worked with executive members to promote inclusion, engagement, and access to career opportunities.  
+  """
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
+  title = "Group Leader"
+  organization = "Chi Alpha"
+  organization_url = ""
+  date_start = "2024-08-01"
   date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
-  
+  description = """
+  Led events for 100+ members, including weekly discussions and service projects.  
+  Mentored peers one-on-one to build spiritual and personal leadership skills, promoting character and growth.  
+  """
+
 [[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
-  url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
-  
-[[item]]
-  organization = "RDX"
-  organization_url = "https://www.rdx.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
-  url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
+  title = "Swim Coach"
+  organization = "SwimAmerica"
+  organization_url = ""
+  date_start = "2021-06-01"
+  date_end = "2023-08-01"
+  description = """
+  Coached youth swimmers in technique, safety, and endurance, helping students of all skill levels gain confidence.  
+  Managed multiple age groups while promoting discipline, teamwork, and continuous improvement in a high-energy environment.  
+  """
 
 +++
