@@ -24,12 +24,10 @@ display_education: true
 interests:
 - Chemical Engineering
 - Website Development
-- Data Visualization
-- Manufacturing Technology
 
 education:
   courses:
-  - course: B.S. in Chemical Engineering
+  - course: B.E. in Chemical Engineering
     institution: University of Pittsburgh
     year: 2027
 
