@@ -18,10 +18,6 @@ publication_types: ["1"]
 publication: First Year Engineering Conference
 publication_short: FYEC
 
-abstract: Throughout this paper, we will describe the billions of tons of annual solid waste that are generated globally, along with the problem this poses. In addition, we will discuss the technological innovation that is deep learning using artificial intelligence. We will then discuss the potential uses of AI in the solid waste management industry as an opportunity to remove the human element from waste sorting and streamline the process. This paper will explore the usage of artificial intelligence-based sensor technology regarding waste management as an effective and sustainable means of sorting waste and reducing pollution, and its applications in effective recycling. We will examine how this technology can be efficiently implemented in a variety of differing cultures and environments, such as the United States, the United Kingdom, and Japan. Additionally, we will provide an objective analysis of this technology’s environmental, social, and economic value, based on factors such as sustainability, accessibility, and costs.
-
-
-
 tags:
 - Source Themes
 featured: true
@@ -61,70 +57,8 @@ projects:
 # slides: example
 ---
 +++
-# A Featured Publications section created with the Featured Content widget.
-# This section displays publications from `content/publication/` which have
-# `featured = true` in their front matter.
 
-widget = "featured"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 80  # Order that this section will appear.
-draft = true # false it if you want a featured section
-
-title = "Featured Publications"
-subtitle = ""
-
-[content]
-  # Page type to display. E.g. post, talk, or publication.
-  page_type = "publication"
-  
-  # Choose how much pages you would like to display (0 = all pages)
-  count = 0
-
-  # Page order. Descending (desc) or ascending (asc) date.
-  order = "desc"
-
-  # Filter posts by a taxonomy term.
-  [content.filters]
-    tag = ""
-    category = ""
-    publication_type = ""
-  
-[design]
-  # Toggle between the various page layout types.
-  #   1 = List
-  #   2 = Compact
-  #   3 = Card
-  #   4 = Citation (publication only)
-  view = 3
-  
-[design.background]
-  # Apply a background color, gradient, or image.
-  #   Uncomment (by removing `#`) an option to apply it.
-  #   Choose a light or dark text color by setting `text_color_light`.
-  #   Any HTML color name or Hex value is valid.
-  
-  # Background color.
-  # color = "navy"
-  
-  # Background gradient.
-  # gradient_start = "DeepSkyBlue"
-  # gradient_end = "SkyBlue"
-  
-  # Background image.
-  # image = "background.jpg"  # Name of image in `static/img/`.
-  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-
-  # Text color (true=light or false=dark).
-  # text_color_light = true  
-  
-[advanced]
- # Custom CSS. 
- css_style = ""
- 
- # CSS class.
- css_class = ""
-+++
+ Throughout this paper, we will describe the billions of tons of annual solid waste that are generated globally, along with the problem this poses. In addition, we will discuss the technological innovation that is deep learning using artificial intelligence. We will then discuss the potential uses of AI in the solid waste management industry as an opportunity to remove the human element from waste sorting and streamline the process. This paper will explore the usage of artificial intelligence-based sensor technology regarding waste management as an effective and sustainable means of sorting waste and reducing pollution, and its applications in effective recycling. We will examine how this technology can be efficiently implemented in a variety of differing cultures and environments, such as the United States, the United Kingdom, and Japan. Additionally, we will provide an objective analysis of this technology’s environmental, social, and economic value, based on factors such as sustainability, accessibility, and costs.
 
 <style>
   .full-page-iframe {
