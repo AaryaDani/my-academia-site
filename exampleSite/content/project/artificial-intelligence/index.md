@@ -34,7 +34,7 @@ The team functioned well, with each member contributing to the team by playing t
 
 In order to launch the balloon, we had to create a schematic design, a mathematical model, and document our work in a lab report. Attached is a copy of the mathematical model and a video of the balloon flying.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1oE-CG6YqRQ?si=4U2zqRJ0bw1srKS9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="1000" height="600" src="https://www.youtube.com/embed/1oE-CG6YqRQ?si=4U2zqRJ0bw1srKS9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe 
     src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSJGrh7HjwDholzsaHyfsvPEySkQkx9o3v-eKnKtIy1jq3o5TdvgQHzsSJJKlcu4-ObZ8yzI49a5X2M/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" 
