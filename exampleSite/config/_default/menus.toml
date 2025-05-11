@@ -9,23 +9,18 @@
   weight = 10
 
 [[main]]
-  name = "Experience"
-  url = "#experience"
+  name = "Work Experience"
+  url = "#workexperience"
   weight = 20  
 
 [[main]]
   name = "Extracurriculars"
   url = "#extracurriculars"
-  weight = 30  
+  weight = 30   
 
 [[main]]
-  name = "Internship Experiences"
-  url = "#Internship_Experiences"
-  weight = 40  
-
-[[main]]
-  name = "Projects"
-  url = "#projects"
+  name = "Experiences"
+  url = "#experiences"
   weight = 50
 
 [[main]]
