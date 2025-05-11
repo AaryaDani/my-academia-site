@@ -22,24 +22,17 @@ subtitle = "ALL THINGS ARE DIFFICULT BEFORE THEY ARE EASY"
   filter_default = 0
   
   [[content.filter_button]]
-    name = "All"
-    tag = "*"
+    name = "Engineering"
+    tag = "Engineering"
   
   [[content.filter_button]]
-    name = "Deep Learning"
-    tag = "Deep Learning"
+    name = "Coding"
+    tag = "Coding"
   
   [[content.filter_button]]
-    name = "Other"
-    tag = "Demo"
+    name = "Artificial Intelligence"
+    tag = "Artificial Intelligence"
   
-  [[content.filter_button]]
-    name = "Human"
-    tag = "human"
-  
-  [[content.filter_button]]
-    name = "Robotics"
-    tag = "robotics"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
