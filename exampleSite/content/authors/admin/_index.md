@@ -9,7 +9,7 @@ authors:
 
 # Resume download button
 btn:
-- url : "/files/Aarya_Dani_Resume.pdf"
+- url : "/files/cv.pdf"
   label : "Download Resume"
 
 # Is this the primary user of the site?
