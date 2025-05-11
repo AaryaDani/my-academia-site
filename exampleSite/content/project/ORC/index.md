@@ -2,6 +2,7 @@
 title: Organic Rankine Cycle Project
 tags:
 - Engineering
+- All
 date: "2025-05-01"
 
 # Optional external URL for project (replaces project detail page).

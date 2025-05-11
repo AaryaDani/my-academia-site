@@ -2,6 +2,7 @@
 title: The Use of Artificial Intelligence in Waste Management
 tags:
 - Artificial Intelligence
+- All
 date: "2024-04-06"
 
 # Optional external URL for project (replaces project detail page).

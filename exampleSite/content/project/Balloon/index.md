@@ -3,6 +3,7 @@ title:  Balloon Design Project
 summary: 
 tags:
 - Engineering
+- All
 date: "2024-12-20T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

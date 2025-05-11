@@ -2,6 +2,7 @@
 title: C++ Final Project
 tags:
 - Coding
+- All
 date: "2024-04-06T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
