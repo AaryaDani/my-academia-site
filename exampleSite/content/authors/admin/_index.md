@@ -1,66 +1,58 @@
 ---
 # Display name
 name: Aarya Dani
-avatar_image: "user-full.png"
-# Username (this should match the folder name)
+avatar_image: "Aarya.png"
+
+# Username (should match the folder name in `content/authors/`)
 authors:
 - admin
-# resume download button
+
+# Resume download button
 btn:
-- url : "https://sourcethemes.com/academic/docs/install/"
+- url : "/files/Aarya_Dani_Resume.pdf"
   label : "Download Resume"
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Student at University of Pittsburgh
+role: Chemical Engineering Student at the University of Pittsburgh
 
 # Should the user's education and interests be displayed?
-display_education: false
+display_education: true
 
 interests:
-- Chemical Engineeirng
+- Chemical Engineering
 - Website Development
+- Data Visualization
+- Manufacturing Technology
 
 education:
   courses:
-  - course: BE in Chemical Engineering
+  - course: B.S. in Chemical Engineering
     institution: University of Pittsburgh
     year: 2027
 
 # Social/academia Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+# For available icons: https://sourcethemes.com/academic/docs/widgets/#icons
 social:
 - icon: envelope
   icon_pack: fas
   link: mailto:AND321@pitt.edu
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+  link: https://github.com/AaryaDani
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/aaryadani/
 
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
-  
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.  
+# Enter email to display Gravatar (if Gravatar enabled in config)
+email: AND321@pitt.edu
+
+# Organizational groups for People widget (optional)
 user_groups:
-- Researchers
-- Visitors
+- Students
+- Engineers
 ---
 
-Hello, I am Aarya Dani! I currently attend the University of Pittsburgh, studying chemical engineering. In the summer of 2024, I completed an internship at Johnson & Johnson, where I leveraged my skills to develop Hugo websites that effectively showcase diverse datasets. Drawing from my engineering background, I am passionate about bridging the gap between engineering principles, data science insights, user requirements, and cutting-edge technology. Currently at Merck in their Vaccine Manufacturing Co-Op program, I hope to apply these skills in my future work.
-
+Hello, I’m **Aarya Dani**, a Chemical Engineering student at the University of Pittsburgh. In Summer 2024, I interned at **Johnson & Johnson**, where I developed Hugo-based websites to visualize and communicate complex data. I'm currently a **Vaccine Manufacturing Co-Op at Merck**, where I apply my engineering background to real-world production environments. I’m passionate about merging engineering, data science, and user-centered design to drive innovation and impact.
