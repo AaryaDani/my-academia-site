@@ -5,7 +5,7 @@ headless = true
 active = true
 weight = 40
 
-title = "Experience"
+title = "Work Experience"
 subtitle = "Professional Experiences, Research, and Co-Ops"
 
 date_format = "Jan 2006"
