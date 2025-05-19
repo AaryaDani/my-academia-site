@@ -1,5 +1,6 @@
 ---
 title: "The Use of Artificial Intelligence in Waste Management"
+url: "featured_publications/"
 authors:
 - admin
 date: "2013-07-01T00:00:00Z"
